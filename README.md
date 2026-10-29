@@ -1,9 +1,9 @@
-# Profile page starter
+# Ana Gabriella's Profile Page
 
-A starter for your personal profile page on GitHub Pages.
+This is my personal profile page on GitHub Pages.
 
-- `index.html` is your page's content. Replace the placeholder text with your own.
-- `style.css` controls how it looks. Change the colors and font at the top of the file.
-- `images/` holds pictures. Upload your own and update the file name in `index.html`.
-
-Your site will be at `https://YOUR-USERNAME.github.io/` once GitHub Pages is turned on.
+Some of the things mentioned are as follows:
+- `About me` shares a short paragraph detailing who I am and what I do.
+- `Interests` shares things I enjoy, what I'm currently learning, what I'm going to learn, and what I'm curious about.
+- `Things I've Made` lists my projects or GitHub Repos.
+- `Find me` is a link to my GitHub account.
