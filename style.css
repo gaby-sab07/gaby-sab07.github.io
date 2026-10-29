@@ -3,10 +3,10 @@
    Colors can be names (teal) or hex codes (#1f6f8b).
    ============================================================ */
 :root {
-  --accent: #7a3e8e;       /* headings, links, the line under headings */
-  --text: #1d2730;         /* main text color */
+  --accent: #7cc4ff;       /* headings, links, the line under headings */
+  --text: teal;         /* main text color */
   --background: #fbf3ee;   /* page background */
-  --card: #1e2d3b;         /* background behind each section */
+  --card: beige;         /* background behind each section */
   --font: "Segoe UI", Helvetica, Arial, sans-serif;
 }
 
