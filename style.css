@@ -28,7 +28,13 @@
 body {
   margin: 0;
   padding: 2rem 1rem;
-  background: var(--background);
+  background-color: var(--background);
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(255,255,255,0.6), transparent 20%),
+    radial-gradient(circle at 80% 10%, rgba(88, 158, 214, 0.12), transparent 25%),
+    linear-gradient(135deg, rgba(255,255,255,0.2), transparent 55%);
+  background-attachment: fixed;
+  background-size: cover;
   color: var(--text);
   font-family: var(--font);
   font-size: 1.1rem;
